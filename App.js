@@ -76,7 +76,7 @@ export default class App extends React.Component {
 
 					<Container style={{ flexDirection:'row', justifyContent:'space-between', padding: 25}}>
 					<Icon name="home" color="white" size={25} />
-					<Icon name="ticket-alt" color="white" size={25} />
+					<Icon name="fa-ticket-alt" color="white" size={25} />
 					<Icon name="bookmark" color="white" size={25} />
 					<Icon name="bell" color="white" size={25} />
 					<Avatar size="small" rounded source={{uri:remote}} avatarStyle={styles.avatar}/>
